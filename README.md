@@ -63,7 +63,7 @@
     height: 2rem;
     margin: .2rem;
     transition: 1s;
-    transform: rotate(-15deg);" src="https://github.com/ibrahemomari/ibrahemomari/blob/main/skills/icons8-mongodb-48.png" alt=""></code>
+    transform: rotate(-15deg);" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/344/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-color-tal-revivo.png" alt=""></code>
             <code><img style="   border: none;
     border-radius: 10px;
     width: 2rem;
