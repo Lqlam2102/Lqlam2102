@@ -104,7 +104,7 @@
   <br/>
  <p align="center">
  <a href="https://github.com/Lqlam2102" target="_blank"> <img src='./img/github.png' alt='github' height='40'> <a/>
-  <a href="https://www.linkedin.com/in/le-quy-lam-809026252/" target="_blank"><img src='./img/linkedin.png' alt='linkedin' height='40'>  </a>
+  <a href="https://www.linkedin.com/in/lqlam21/" target="_blank"><img src='./img/linkedin.png' alt='linkedin' height='40'>  </a>
   <a href="https://www.facebook.com/lq.lam21/" target="_blank"><img src='./img/facebook.png' alt='facebook' height='40'></a>
   <a href="https://www.instagram.com/_lqlam21/" target="_blank"><img src='./img/instagram.png' alt='instagram' height='40'></a>
  </p>
