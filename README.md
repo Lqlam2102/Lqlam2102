@@ -8,9 +8,7 @@
   <summary><b>👨🏻‍💻&nbsp;&nbsp;About&nbsp;me</b></summary>
   <br/>
  <p>
- <img src="/img/Developer.gif" width="45px"> I'm a Back-End Developer 
-  
-  and I'm 21 years old, I am a final year student at Vietnam National University of Forestry and I am doing an internship at a company that builds and develops digital maps IOT Link  ...
+ <img src="/img/Developer.gif" width="45px"> My name is Le Quy Lam. I was born in 2001, and I am a passionate programmer. With a keen interest in technology and problem-solving, I have dedicated myself to honing my programming skills. I enjoy developing creative and efficient solutions to complex problems, and I am constantly seeking opportunities to expand my knowledge and stay up-to-date with the latest advancements in the field. Programming is not just a job for me; it's a lifelong passion that allows me to bring ideas to life and make a positive impact through technology.  ...
  </p>
 </details>
 
@@ -19,7 +17,7 @@
   <br/>
  <ul>
   <li>💻 C, C#, Python, JS </li>
-  <li>🥶 React JS, Bootstrap, Django</li>
+  <li>🥶 React JS, React Native, Bootstrap, Django</li>
   <li>💣 Restful API, MySQL, SQL Server FireBase, PostgreSQL</li>
  </ul>
  </details>
