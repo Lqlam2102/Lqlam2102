@@ -8,7 +8,7 @@
   <summary><b>👨🏻‍💻&nbsp;&nbsp;About&nbsp;me</b></summary>
   <br/>
  <p>
- <img src="/img/Developer.gif" width="45px"> My name is Le Quy Lam. I was born in 2001, and I am a passionate programmer. With a keen interest in technology and problem-solving, I have dedicated myself to honing my programming skills. I enjoy developing creative and efficient solutions to complex problems, and I am constantly seeking opportunities to expand my knowledge and stay up-to-date with the latest advancements in the field. Programming is not just a job for me; it's a lifelong passion that allows me to bring ideas to life and make a positive impact through technology.  ...
+ <img src="/img/Developer.gif" width="45px"> My name is Le Quy Lam. I was born in 2001, and I am a dedicated programmer. With a keen interest in technology and problem-solving, I have committed myself to honing my skills. I enjoy developing creative and efficient solutions to complex challenges and am constantly seeking opportunities to expand my knowledge and stay current with the latest advancements in the field. Programming is not just a job for me; it's a lifelong pursuit that allows me to bring ideas to life and make a positive impact through technology.  ...
  </p>
 </details>
 
@@ -17,7 +17,7 @@
   <br/>
  <ul>
   <li>💻 C, C#, Python, JS </li>
-  <li>🥶 React JS, React Native, Bootstrap, Django</li>
+  <li>🥶 React JS, React Native, Django</li>
   <li>💣 Restful API, MySQL, SQL Server FireBase, PostgreSQL</li>
  </ul>
  </details>
